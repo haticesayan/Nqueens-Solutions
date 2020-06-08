@@ -45,6 +45,7 @@ Backtracking beats genetic algorithm in terms of memory , easy implementation. G
 - In genetic algorithm sometimes you need run again to get a solution and you may not always get the solution at the same amount of time.
 ## Solutions for where n = 8.
 - BACKTRACKING:
-solback
+![image](https://user-images.githubusercontent.com/32208632/84026091-58027a00-a995-11ea-90dd-c902fa9d9a01.png)
+
 - GENETIC ALGORITHMS:
 

@@ -49,4 +49,4 @@ Backtracking beats genetic algorithm in terms of memory , easy implementation. G
 
 - GENETIC ALGORITHMS:
 - ![image](https://user-images.githubusercontent.com/32208632/84026655-61d8ad00-a996-11ea-8ba9-5a526986ca08.png)
-
+For more see my video : https://www.youtube.com/watch?v=rg_KKhOPhtE&t=365s

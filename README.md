@@ -38,7 +38,6 @@ The chess queens can attack in any direction as horizontal, vertical, and diagon
 - i − qi = j − qj          
 - i + qi = j + qj         
 ## Genetic Algorithm vs Backtracking
-### MEMORY
 Backtracking beats genetic algorithm in terms of memory , easy implementation. Genetic algorithm beats backtracking in terms of performance and sometimes success rate.
 ### DIFFICULTIES:
 - In backtracking you need to wait much longer to get a solution and that can be pain.

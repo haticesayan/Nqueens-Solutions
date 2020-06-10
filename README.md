@@ -22,16 +22,13 @@ The chess queens can attack in any direction as horizontal, vertical, and diagon
 - wait for slaves to finish
 - run mutation operator
 - end
-### Algorithm(masters):
-- create initial population
-- evaluate initial population
-- run crossover operator
-- create slaves
-- while not done
-- start slaves
-- wait for slaves to finish
-- run mutation operator
+### Algorithm(slaves):
+- for i = 1 to slave_iterations
+- select 3 individuals
+- evaluate mutation
+- if solution found set done=true;
 - end
+
 #### Fitness Function Idea
 - For a simple method of finding conflicts:
 - consider an n tuple: (q1,..., qi,..., qj ,..., qn). i-th and j-th queen share a diagonal if:
